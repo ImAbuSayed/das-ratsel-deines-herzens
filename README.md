@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-ratsel-deines-herzens/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Das Rätsel deines Herzens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-ratsel-deines-herzens/) |
+| **Get License** | [Obtain a Music License for Das Rätsel deines Herzens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-ratsel-deines-herzens/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, zeig mir deine Kurven, wenn wir durch die Nacht cruis'n, Babe
+> Deine Augen funkeln, jeder Blick von dir ist mein Escape
+> Lass die ganze City schlafen, unsre Energy ist laut
+> Heut Nacht bist du die Einzige, der mein Inneres vertraut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
