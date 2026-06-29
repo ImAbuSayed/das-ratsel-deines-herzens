@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Das Rätsel deines Herzens
+
+This log tracks the cryptographic history and versioning for the song **Das Rätsel deines Herzens** (das-ratsel-deines-herzens).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T03:16:12.959556 | `v1` | `b600fda476519d6fed45ee8b45b1c44c32af38a4810852b8499ae9e1f6a005aa` | `f683f8127ce60d9862c021ca41e5630d1846e2fee80c8068d3be9e17841e66e2` | `2026-06-30_das-ratsel-deines-herzens-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
